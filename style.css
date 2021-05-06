@@ -1,1 +1,51 @@
-.
+.conteiner{
+    width: 975px;
+    background-color: #1d355c;
+    padding: 10px;
+}
+.header{
+    width: 100%;
+    background-color: #cc323b;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.header h1{
+    margin: 0px;
+    padding: 15px 0 15px 10px;
+    color: #c3d6eb;
+}
+.navbar{
+    width: 180px;
+    background-color: #2f7d8b;
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.navbar ul{
+    padding-left: 20px;
+    margin: 0;
+    color:#61cac7 ;
+}
+.navbar a{
+    color: #61cac7; 
+}
+.main-content{
+    height: 400px;
+    width: 755px;
+    display: inline-block;
+    margin-left: 15px;
+    background-color: black;
+    border-radius: 20px;
+}
+.main-content h2{
+    color: gray;
+    padding-left: 10px;
+}
+.footer{
+    height: 60px;
+    width: 100%;
+    background-color: gray;
+    border-radius: 20px;
+    margin-top: 10px;
+}
